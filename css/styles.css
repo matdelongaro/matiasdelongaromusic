@@ -1,0 +1,21 @@
+body{
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
+#primary{
+    background-color:  #4c7b8e ;
+}
+#secundary{
+    background-color: #ccd2ce ;
+}
+.img-portada{
+    width: 100%;
+    height: 90vh;
+}
+/* section{
+    overflow: hidden;
+} */
+
+.img-releases{
+    width: 300px;
+}
