@@ -1,12 +1,15 @@
 body{
     font-family: "Poppins", sans-serif;
   font-weight: 400;
+
+
 }
-#primary{
-    background-color:  #4c7b8e ;
+
+.contenedorSections{
+    background-color: rgb(3 41 48);
 }
-#secundary{
-    background-color: #ccd2ce ;
+#nav{
+    background-color: rgb(3 41 48);
 }
 .img-portada{
     width: 100%;
@@ -17,5 +20,24 @@ body{
 } */
 
 .img-releases{
-    width: 300px;
+    width: 250px;
+}
+
+.buttons{
+    background-color: #00b27d;
+    color: #fff;
+    padding: 10px 100px;
+    text-decoration: none;
+    border:solid 1px #fff;
+}
+
+footer{
+    background-color: rgb(3 41 48);
+    padding-bottom: 280px;
+}
+
+
+
+#rrss{
+    color: white;
 }
